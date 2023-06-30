@@ -1,0 +1,8 @@
+[submodule "nest-graphql-demo-frontend"]
+	path = nest-graphql-demo-frontend
+	url = https://github.com/Offram/nest-graphql-demo-frontend.git
+	branch = main
+[submodule "nest-graphql-demo-backend"]
+	path = nest-graphql-demo-backend
+	url = https://github.com/Offram/nest-graphql-demo-backend.git
+	branch = master
